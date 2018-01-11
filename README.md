@@ -2,7 +2,9 @@ DDirham integration/staging tree
 ================================
 
 Copyright (c) 2009-2018 Bitcoin Developers
+
 Copyright (c) 2011-2018 Litecoin Developers
+
 Copyright (c) 2011-2018 DDirham Developers
 
 What is DDirham?
