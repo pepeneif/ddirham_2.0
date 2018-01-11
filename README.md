@@ -49,14 +49,6 @@ The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/ddirham-project/ddirham/tags) are created
 regularly to indicate new official, stable release versions of DDirham.
 
-Testing
--------
-
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test. Please be patient and help out, and
-remember this is a security-critical project where any mistake might cost people
-lots of money.
-
 ### Automated Testing
 
 Developers are strongly encouraged to write unit tests for new code, and to
