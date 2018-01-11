@@ -1,0 +1,34 @@
+src/*.exe
+src/ddirham
+src/ddirhamd
+src/test_ddirham
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.ddirham
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+ddirham-qt
+DDirham-Qt.app
+
+# Unit-tests
+Makefile.test
+ddirham-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

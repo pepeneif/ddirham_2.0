@@ -1,0 +1,9 @@
+Building DDirham
+
+See doc/readme-qt.rst for instructions on building DDirham-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DDirham.
+
+See doc/build-*.txt for instructions on building ddirhamd,
+the intended-for-services, no-graphical-interface, reference
+implementation of DDirham.
